@@ -1,4 +1,4 @@
-# Welcome to the Sieber_AI Lab
+# Welcome to the Sieber Lab_AI
 
 Multiresistant bacteria pose a major threat to human health. With numerous potent drugs discovered in the “golden age” of antibiotics in the mid of the 20th century, new developments have dramatically declined while strains resistant to common antibiotics are on the rise. Since many of the antibiotics currently in use focus on a rather narrow scope of cellular targets, multiple resistance strategies have already evolved. Given the vast number of essential proteins in bacteria there is a huge potential to decipher unprecedented antibiotic targets yet lacking resistance strategies.
 
